@@ -1,0 +1,10 @@
+{
+  "name": "whatsapp-bot",
+  "version": "1.0.0",
+  "description": "A simple WhatsApp bot",
+  "main": "main.js",
+  "dependencies": {
+    "whatsapp-web.js": "^1.16.0",
+    "qrcode-terminal": "^0.12.0"
+  }
+}
